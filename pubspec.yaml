@@ -1,7 +1,6 @@
-name: flutter_app_minimizer
+name: app_minimizer
 description: A new flutter plugin project.
 version: 0.0.2
-homepage:
 
 environment:
   sdk: ">=2.14.0 <3.0.0"
